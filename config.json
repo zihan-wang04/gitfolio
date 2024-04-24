@@ -3,12 +3,16 @@
   "username": "zihan-wang04",
   "name": "zihanwang",
   "userimg": "https://avatars.githubusercontent.com/u/144185768?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "asc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "light.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
